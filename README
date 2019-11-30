@@ -1,2 +1,2 @@
 HW3/Problem6.py is THE script to run.
-HW3/ff_code is where the functions/main code are, many of which Problem6.m calls. 
+ff_code/ is where the functions/main code are, many of which Problem6.m calls. 
